@@ -1,5 +1,8 @@
-
-# Flow Outcomes for Flow Decision Records (FDRs)
+---
+permalink: /tags/flow-decision-outcomes
+title: "Flow Decision Outcomes"
+layout: splash
+---
 
 Each FDR should aim to improve one or more of the following outcomes. These outcomes provide a shared language to reason about how changes improve the flow of value in the organization.
 

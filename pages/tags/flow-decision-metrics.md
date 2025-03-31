@@ -1,5 +1,8 @@
-
-# Flow Metrics for Flow Decision Records (FDRs)
+---
+permalink: /tags/flow-decision-metrics
+title: "Flow Decision Metrics"
+layout: splash
+---
 
 Use these metrics to evaluate the impact of flow decisions. They provide evidence to validate improvements in speed, quality, clarity, and cognitive load.
 

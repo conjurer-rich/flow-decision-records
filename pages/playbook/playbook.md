@@ -1,5 +1,8 @@
-
-# Flow Decision Playbook (v0.1)
+---
+permalink: /playbook
+title: "Flow Decision Playbook (v0.1)"
+layout: splash
+---
 
 Supporting decentralized, transparent decisions that enable faster flow of value
 

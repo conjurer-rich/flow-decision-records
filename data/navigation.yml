@@ -1,0 +1,64 @@
+main:
+  - title: "Quick start"
+    url: /docs/quick-start-guide
+  - title: "Insights"
+    url: /insights
+  - title: "Community"
+    url: /community
+  - title: "How can we help"
+    url: /how-can-we-help
+  - title: "Contact"
+    url: /contact
+
+docs:
+  - title: Getting started
+    children:
+    - title: "Quick start"
+      url: /docs/quick-start-guide
+    - title: "Introduction"
+      url: /docs/introduction-to-user-needs-mapping
+    - title: "Step 1: Define the Purpose"
+      url: /docs/step-1-define-purpose
+    - title: "Step 2: Identifying Users"
+      url: /docs/step-2-identifying-users
+    - title: "Step 3: Defining User Needs"
+      url: /docs/step-3-defining-user-needs
+    - title: "Step 4: Mapping Capabilities"
+      url: /docs/step-4-mapping-capabilities
+    - title: "Step 5: Analyzing Dependencies"
+      url: /docs/step-5-analyzing-dependencies
+    - title: "Step 6: Defining Team Boundaries"
+      url: /docs/step-6-defining-team-boundaries
+    - title: "Step 7: Iterating and Scaling"
+      url: /docs/step-7-iterating-and-scaling
+  - title: Team Topologies
+    children:
+    - title: "Overview"
+      url: /docs/teamtopologies
+    - title: "The Four Team Types"
+      url: /docs/teamtopologies/four-team-types
+    - title: "The Three Interaction Modes "
+      url: /docs/teamtopologies/interaction-modes
+  - title: Typical Challenges
+    children:
+    - title: "Overview"
+      url: /docs/challenges
+    - title: "Resistance to Change" 
+      url: /docs/challenges/resistance-to-change
+    - title: "Difficulty Defining User Needs"
+      url: /docs/challenges/defining-user-needs
+    - title: "Overwhelming Complexity"
+      url: /docs/challenges/overwhelming-complexity
+    - title: "Lack of Clarity Around Capabilities"
+      url: /docs/challenges/capability-clarity
+    - title: "Misaligned Team Ownership"
+      url: /docs/challenges/misaligned-teams
+    - title: "Sustaining Momentum"
+      url: /docs/challenges/sustaining-momentum
+    
+  - title: Case Studies
+    children:
+    - title: "Passenger"
+      url: /docs/case-studies/passenger
+    
+

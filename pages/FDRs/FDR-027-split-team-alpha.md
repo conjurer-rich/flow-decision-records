@@ -1,4 +1,8 @@
-# Flow Decision Record (FDR-027)
+---
+permalink: /FDRs/FDR-027-split-team-alpha
+title: "FDR-027: Split Team Alpha into Two Stream-Aligned Teams Focused on Billing and Payments"
+layout: splash
+---
 
 ## Title
 

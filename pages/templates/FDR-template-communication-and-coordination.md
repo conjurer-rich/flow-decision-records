@@ -1,4 +1,4 @@
-# 4. Communication & Coordination
+# Communication & Coordination
 
 **Title**:  
 e.g., "Create Daily Cross-Team Standup for Release Coordination"

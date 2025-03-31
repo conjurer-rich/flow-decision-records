@@ -1,5 +1,8 @@
-
-# Flow Decision Triggers
+---
+permalink: /tags/flow-decision-triggers
+title: "Flow Decision Triggers"
+layout: splash
+---
 
 Flow Decision Triggers are common signals or struggles that prompt the need for a Flow Decision Record (FDR). Use these to help describe the context of your decision and connect it to recurring patterns.
 
