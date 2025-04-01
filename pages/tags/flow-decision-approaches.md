@@ -8,20 +8,28 @@ These icons can help visually identify the type of intervention being made in a 
 
 ## A. Team Structure & Boundaries
 
-- ✂️ **Split a team by value stream**  
+- ✂️ **Grow and split a team by value stream**  
   One team becomes two or more focused on distinct user needs or capabilities.
 
 - 🔗 **Merge or recombine teams**  
   Combine teams to reduce handoffs or align better with a shared purpose.
 
-- 🔄 **Dynamic reteaming**  
+- 🔄 **One by one reteaming**  
   Move individuals between teams to evolve boundaries or seed new capabilities.
+
+- 🔀 **Switching to a new team**  
+  Switch one or more individuals between teams to share knowledge, skills and working practices.
+
+- 🔒 **Isolation**  
+  Create a new team to support a specific user need or capability.
 
 - 🆘 **Create an enabling team**  
   Launch a new team to support others with specific capabilities or practices.
 
 - 🎛️ **Redesign team responsibilities**  
   Change what a team owns to reduce cognitive load or improve autonomy.
+
+
 
 ## B. Interaction Design
 
@@ -50,7 +58,7 @@ These icons can help visually identify the type of intervention being made in a 
 
 ## D. Strategic & Governance Adjustments
 
-- 🔀 **Shift prioritization model**  
+- 🆙 **Shift prioritization model**  
   Change how work is sequenced or selected to improve alignment with flow goals.
 
 - 📆 **Reshape cross-functional forums**  
