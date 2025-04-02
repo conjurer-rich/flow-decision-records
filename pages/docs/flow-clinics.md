@@ -1,4 +1,13 @@
-# What is a Flow Clinic?
+---
+permalink: /docs/flow-clinics
+title: "Flow Clinics"
+layout: single
+sidebar:
+  nav: "docs"
+classes: wide
+---
+
+## What is a Flow Clinic?
 
 A Flow Clinic is a facilitated session where individuals or teams bring   flow-related challenges, trade-offs, or structural uncertainties for collaborative exploration. Rather than prescribing answers, Flow Clinics create a space for advice-based decision-making, guided by shared principles and facilitated inquiry.
 
@@ -34,30 +43,30 @@ Signals or triggers might include:
 
 1. Welcome and framing (5 mins)
 
-- Purpose of the clinic
-- Norms: psychological safety, curiosity, advice process
+   - Purpose of the clinic
+   - Norms: psychological safety, curiosity, advice process
 
-1. Present the flow challenge (10 mins)
+2. Present the flow challenge (10 mins)
 
-- What’s the context?
-- What’s the decision or uncertainty?
-- What have you tried or considered?
+   - What’s the context?
+   - What’s the decision or uncertainty?
+   - What have you tried or considered?
 
-1. Advice round (15–25 mins)
+3. Advice round (15–25 mins)
 
-- Advisors ask clarifying questions
-- Offer options, analogies, patterns, risks, or similar experiences
-- Facilitator may surface or sketch possible options using visual aids
+   - Advisors ask clarifying questions
+   - Offer options, analogies, patterns, risks, or similar experiences
+   - Facilitator may surface or sketch possible options using visual aids
 
-1. Next steps (5–10 mins)
+4. Next steps (5–10 mins)
 
-- What decision(s) will the initiator make or explore further?
-- Record a draft Flow Decision Record (FDR)
-- Assign any follow-ups (if needed)
+   - What decision(s) will the initiator make or explore further?
+   - Record a draft Flow Decision Record (FDR)
+   - Assign any follow-ups (if needed)
 
 ## Clinic Outputs
 
-- Draft or updated Flow Decision Record
+- Draft or updated Flow Decision Record (FDR)
 - Shared understanding of flow constraints or enablers
 - Optionally visual models (sketches, capability maps, service interactions)
 

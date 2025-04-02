@@ -1,7 +1,10 @@
 ---
-permalink: /tags/flow-decision-approaches
+permalink: /docs/flow-decision-approaches
 title: "Flow Decision Approaches"
-layout: splash
+layout: single
+sidebar:
+  nav: "docs"
+classes: wide
 --- 
 
 These icons can help visually identify the type of intervention being made in a Flow Decision Record (FDR).
@@ -66,3 +69,5 @@ These icons can help visually identify the type of intervention being made in a 
 
 - 📊 **Establish flow-focused metrics**  
   Create and align around metrics tied to delivery speed, feedback, or ownership clarity.
+
+After identifying an approach, you can use the [Flow Decision Metrics](/docs/flow-decision-metrics) to help you evaluate the impact of the decision.

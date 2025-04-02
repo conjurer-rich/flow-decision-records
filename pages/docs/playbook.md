@@ -1,7 +1,10 @@
 ---
-permalink: /playbook
+permalink: /docs/playbook
 title: "Flow Decision Playbook (v0.1)"
-layout: splash
+layout: single
+sidebar:
+  nav: "docs"
+classes: wide
 ---
 
 Supporting decentralized, transparent decisions that enable faster flow of value
@@ -65,11 +68,9 @@ Each FDR should be concise and structured for clarity and action. Here’s a bas
 
 Flow Decisions are made with input, not by consensus.
 
-Identify stakeholders: Who might be affected? Who has relevant expertise?
-
-Seek advice early: Give people a chance to contribute insight or raise risks
-
-Own the decision: The proposer decides, incorporating feedback transparently
+- **Identify stakeholders**: Who might be affected? Who has relevant expertise?
+- **Seek advice early**: Give people a chance to contribute insight or raise risks
+- **Own the decision**: The proposer decides, incorporating feedback transparently
 
 This approach builds trust and speeds up progress—without falling into design-by-committee.
 
@@ -77,9 +78,8 @@ This approach builds trust and speeds up progress—without falling into design-
 
 Once the FDR is finalized:
 
-Share it visibly (e.g. FDR board, dashboard, Slack/Teams post)
-
-Link it to your roadmap (Now–Next–Later)
+- **Share it visibly**: (e.g. FDR board, dashboard, Slack/Teams post)
+- **Link it to your roadmap**: (Now–Next–Later)
 
 Support the decision with necessary changes, such as:
 
@@ -99,13 +99,19 @@ Build a cadence for reviewing active FDRs (e.g. monthly) and let teams reflect o
 
 ## 8. Example FDR (Fictional)
 
-Title: Split the Data Services Team into Two Stream-Aligned Teams
-Context: Data Services team is overloaded, serving multiple business domains with competing priorities.
-Decision: Split into two stream-aligned teams: one focused on Product Analytics, one on Operational Reporting.
-Advice Gathered: Consulted domain leads and platform architect. Consensus that focus would improve responsiveness.
-Expected Impact: Reduce delivery delays, clarify ownership, and improve domain-specific expertise.
-Owner: Head of Data Engineering
-Start Date / Review Date: April 15 / June 15
+**Title**: Split the Data Services Team into Two Stream-Aligned Teams
+
+**Context**: Data Services team is overloaded, serving multiple business domains with competing priorities.
+
+**Decision**: Split into two stream-aligned teams: one focused on Product Analytics, one on Operational Reporting.
+
+**Advice Gathered**: Consulted domain leads and platform architect. Consensus that focus would improve responsiveness.
+
+**Expected Impact**: Reduce delivery delays, clarify ownership, and improve domain-specific expertise.
+
+**Owner**: Head of Data Engineering
+
+**Start Date / Review Date**: April 15 / June 15
 Status: Proposed
 
 ## 9. Start Small, Learn Fast

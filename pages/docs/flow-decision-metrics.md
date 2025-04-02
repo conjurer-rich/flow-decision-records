@@ -1,7 +1,10 @@
 ---
-permalink: /tags/flow-decision-metrics
+permalink: /docs/flow-decision-metrics
 title: "Flow Decision Metrics"
-layout: splash
+layout: single
+sidebar:
+  nav: "docs"
+classes: wide
 ---
 
 Use these metrics to evaluate the impact of flow decisions. They provide evidence to validate improvements in speed, quality, clarity, and cognitive load.

@@ -1,0 +1,38 @@
+main:
+  - title: "Overview"
+    url: /docs/overview
+  - title: "Contact"
+    url: /contact
+
+docs:
+  - title: Overview
+    url: /docs/overview
+    children:
+    - title: "Triggers"
+      url: /docs/flow-decision-triggers
+    - title: "Outcomes"
+      url: /docs/flow-decision-outcomes
+    - title: "Approaches"
+      url: /docs/flow-decision-approaches
+    - title: "Metrics"
+      url: /docs/flow-decision-metrics
+    - title: "Sample Playbook"
+      url: /docs/playbook
+    - title: "Flow clinics"
+      url: /docs/flow-clinics
+
+  - title: Templates
+    children:
+    - title: Basic Template
+      url: /docs/templates/FDR-template
+    - title: Team and Boundary Template
+      url: /docs/templates/FDR-template-team-and-boundary
+    - title: Interaction Modes Template
+      url: /docs/templates/FDR-template-interaction-modes
+    - title: Constraints and Compliance
+      url: /docs/templates/FDR-template-constraints-and-compliance
+    - title: Communication and coordination
+      url: /docs/templates/FDR-template-communication-and-coordination
+
+    
+

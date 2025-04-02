@@ -1,7 +1,9 @@
 ---
-permalink: /templates/FDR-template
+permalink: /docs/templates/FDR-template
 title: "Flow Decision Record Template"
-layout: splash
+layout: single
+sidebar:
+  nav: "docs"
 ---
 
 ## Flow Decision Record (FDR-XXX)

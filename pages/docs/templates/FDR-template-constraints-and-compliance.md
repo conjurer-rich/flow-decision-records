@@ -1,4 +1,12 @@
-# Constraints & Compliance
+---
+permalink: /docs/templates/FDR-template-constraints-and-compliance
+title: "FDR Template: Constraints & Compliance"
+layout: single
+sidebar:
+  nav: "docs"
+---
+
+## Constraints & Compliance
 
 **Title**:  
 e.g., "Introduce Compliance Review Stage for Regulated Markets"

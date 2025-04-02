@@ -1,5 +1,12 @@
+---
+permalink: /docs/templates/FDR-template-interaction-modes
+title: "FDR Template: Interaction Modes & Responsibilities"
+layout: single
+sidebar:
+  nav: "docs"
+---
 
-# Interaction Modes & Responsibilities
+## Interaction Modes & Responsibilities
 
 **Title**:  
 e.g., "Reclassify Observability Team as Enabling Team"

@@ -1,4 +1,12 @@
-# Communication & Coordination
+---
+permalink: /docs/templates/FDR-template-communication-and-coordination
+title: "FDR Template: Communication & Coordination"
+layout: single
+sidebar:
+  nav: "docs"
+---
+
+## Communication & Coordination
 
 **Title**:  
 e.g., "Create Daily Cross-Team Standup for Release Coordination"

@@ -1,14 +1,17 @@
 ---
 permalink: /
 title: "Flow Decision Records"
-layout: splash
+layout: single
 excerpt: > 
   Supporting **decentralized, transparent decisions** that enable **faster flow of value**.
+sidebar:
+  nav: "docs"
+classes: wide
 ---
 
-**Flow Decision Records (FDRs)** are short, structured documents used to capture key decisions made to improve the flow of value within an organization.
+Flow Decision Records (FDRs) are short, structured documents used to capture key decisions made to improve the flow of value within an organization.
 
-Inspired by Architecture Decision Records (ADRs), FDRs are lightweight, transparent, and grounded in context. They help organizations make better decisions—faster—by surfacing struggles, gathering advice, and recording how decisions impact flow over time.
+Inspired by [Architecture Decision Records (ADRs)](https://adr.github.io/){:target="_blank"}, FDRs are lightweight, transparent, and grounded in context. They help organizations make better decisions—faster—by surfacing struggles, gathering advice, and recording how decisions impact flow over time.
 
 ---
 
@@ -41,7 +44,7 @@ Each record includes:
 - The **roadmap position**: Is this happening now, next, or later?
 - The **evaluation plan**: How and when we’ll know it worked
 
-👉 [View a sample FDR](FDRs/FDR-027-split-team-alpha)
+👉 [View a sample FDR](/docs/FDRs/FDR-027-split-team-alpha)
 
 ---
 
@@ -49,23 +52,23 @@ Each record includes:
 
 Want to understand the building blocks of FDRs? Start here:
 
-- 🔍 [Flow Decision Triggers](tags/flow-decision-triggers)  
+- 🔍 [Flow Decision Triggers](/docs/tags/flow-decision-triggers)  
   What signals or struggles prompt the need for change?
 
-- 🎯 [Flow Decision Outcomes](tags/flow-decision-outcomes)  
+- 🎯 [Flow Decision Outcomes](/docs/tags/flow-decision-outcomes)  
   What are we trying to improve?
 
-- 📊 [Flow Decision Metrics](tags/flow-decision-metrics)  
+- 📊 [Flow Decision Metrics](/docs/tags/flow-decision-metrics)  
   How will we measure impact?
 
-- 🛠️ [Flow Decision Approaches](tags/flow-decision-approaches)  
+- 🛠️ [Flow Decision Approaches](/docs/tags/flow-decision-approaches)  
   What kinds of actions do we take?
 
 ---
 
 ## 🚀 Get Started
 
-1. Use our [template](templates/FDR-template) to draft your first Flow Decision Record.
+1. Use our [template](/docs/templates/FDR-template) to draft your first Flow Decision Record.
 2. Add it to your repository.
 3. Place it on your [Flow Roadmap](fdr-list) using Now / Next / Later.
 4. Invite advice and evaluate its impact.

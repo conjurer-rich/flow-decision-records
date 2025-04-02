@@ -1,7 +1,10 @@
 ---
-permalink: /tags/flow-decision-outcomes
+permalink: /docs/flow-decision-outcomes
 title: "Flow Decision Outcomes"
-layout: splash
+layout: single
+sidebar:
+  nav: "docs"
+classes: wide
 ---
 
 Each FDR should aim to improve one or more of the following outcomes. These outcomes provide a shared language to reason about how changes improve the flow of value in the organization.
@@ -46,3 +49,5 @@ Each FDR should aim to improve one or more of the following outcomes. These outc
 
 - 🚀 **Unblock strategic priorities**  
   Reshape structure to align with a new or evolving strategic initiative.
+
+After identifying an outcome, you can use the [Flow Decision Approaches](/docs/flow-decision-approaches) to help you understand the impact of the decision.

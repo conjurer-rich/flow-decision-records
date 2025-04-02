@@ -1,4 +1,12 @@
-## 1. Team Boundaries & Ownership
+---
+permalink: /docs/templates/FDR-template-team-and-boundary
+title: "FDR Template: Team & Boundary"
+layout: single
+sidebar:
+  nav: "docs"
+---
+
+## Team Boundaries & Ownership
 
 **Title**:  
 _A clear, specific description of the shift in ownership or boundaries_  

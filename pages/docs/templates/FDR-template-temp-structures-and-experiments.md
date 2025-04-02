@@ -1,4 +1,12 @@
-# Temporary Structures & Experiments
+---
+permalink: /docs/templates/FDR-template-temp-structures-and-experiments
+title: "FDR Template: Temporary Structures & Experiments"
+layout: single
+sidebar:
+  nav: "docs"
+---
+
+## Temporary Structures & Experiments
 
 **Title**:  
 e.g., "Spin Up Short-Term Feature Readiness Squad"
