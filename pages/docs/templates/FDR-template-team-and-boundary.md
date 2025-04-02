@@ -38,8 +38,8 @@ _Who raised this decision and why?_
 
 _Use an outcome-oriented format:_  
 
-- Reduce [confusion | handoffs | rework] in [team or capability]  
-- Increase [clarity | autonomy | delivery speed] for [team or service]
+- Reduce [confusion \| handoffs \| rework] in [team or capability]  
+- Increase [clarity \| autonomy \| delivery speed] for [team or service]
 
 **Next Steps**:
 
