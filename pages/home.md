@@ -52,16 +52,16 @@ Each record includes:
 
 Want to understand the building blocks of FDRs? Start here:
 
-- 🔍 [Flow Decision Triggers](/docs/tags/flow-decision-triggers)  
+- 🔍 [Flow Decision Triggers](/docs/flow-decision-triggers)  
   What signals or struggles prompt the need for change?
 
-- 🎯 [Flow Decision Outcomes](/docs/tags/flow-decision-outcomes)  
+- 🎯 [Flow Decision Outcomes](/docs/flow-decision-outcomes)  
   What are we trying to improve?
 
-- 📊 [Flow Decision Metrics](/docs/tags/flow-decision-metrics)  
+- 📊 [Flow Decision Metrics](/docs/flow-decision-metrics)  
   How will we measure impact?
 
-- 🛠️ [Flow Decision Approaches](/docs/tags/flow-decision-approaches)  
+- 🛠️ [Flow Decision Approaches](/docs/flow-decision-approaches)  
   What kinds of actions do we take?
 
 ---
