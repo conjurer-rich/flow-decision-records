@@ -11,7 +11,7 @@ The **Flow Decision Radar** is a visual tool that helps teams evaluate and prior
 
 ---
 
-## 🧭 What Is It?
+## 🧭 What is it?
 
 The radar plots **Flow Decision Signals** on two axes:
 
@@ -25,7 +25,7 @@ The radar plots **Flow Decision Signals** on two axes:
 
 ---
 
-## 🧩 What Are We Looking For?
+## 🧩 What are we looking for?
 
 The goal is to identify **which signals should become Flow Decision Triggers**—those that warrant a structured decision.
 
@@ -42,12 +42,12 @@ These should prompt further investigation or lead directly to a **Flow Decision 
 
 ---
 
-## 📉 How to Use the Radar
+## 📉 How to use the radar
 
-1. **Gather Signals**  
+1. **Gather signals**  
    Collect blockers, tensions, or struggles during workshops, clinics, or interviews.
 
-2. **Plot the Signals**  
+2. **Plot the signals**  
    For each signal, ask:
    - How many people or teams does this affect?
    - Is this the root cause of other issues or just a symptom?
@@ -67,7 +67,7 @@ These should prompt further investigation or lead directly to a **Flow Decision 
 
 ---
 
-## 📌 Radar Quadrant Summary
+## 📌 Radar quadrant summary
 
 | Quadrant | Characteristics | What to do |
 |----------|------------------|------------|
@@ -78,7 +78,7 @@ These should prompt further investigation or lead directly to a **Flow Decision 
 
 ---
 
-## 🛠️ Practical Tips
+## 🛠️ Practical tips
 
 - Use sticky notes or cards to place signals physically or digitally  
 - Encourage teams to move signals as their understanding evolves  
@@ -87,7 +87,7 @@ These should prompt further investigation or lead directly to a **Flow Decision 
 
 ---
 
-## 🎯 From Signal to Decision
+## 🎯 From signal to decision
 
 The radar doesn’t just help visualize—it helps reason.
 

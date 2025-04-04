@@ -37,7 +37,7 @@ A **Flow Decision Signal**:
 
 ---
 
-## 🔍 Why Capture Signals?
+## 🔍 Why capture signals?
 
 Capturing signals helps you:
 
@@ -67,7 +67,7 @@ Each of these:
 
 ---
 
-## 🧩 How Do Signals Lead to Triggers?
+## 🧩 How do signals lead to triggers?
 
 Look for signals that:
 
@@ -80,7 +80,7 @@ Look for signals that:
 
 ---
 
-## 🗂️ Categorizing Signals
+## 🗂️ Categorizing signals
 
 To support prioritization and sensemaking, categorize each signal using the same categories as triggers:
 
@@ -98,14 +98,14 @@ This helps:
 
 ---
 
-## 🛠️ Signals in Practice
+## 🛠️ Signals in practice
 
 When running a Flow Clinic or workshop:
 
 - Encourage teams to write down flow blockers or pain points as signals
 - Don’t worry about naming root causes right away
 - Group and tag signals thematically
-- Use a “Signal → Trigger → Decision” board or workflow to guide prioritization
+- Use a [Flow Decision Radar](/docs/flow-decision-radar) to guide prioritization
 - Revisit signals periodically to see if they’ve evolved into actionable decisions
 
 ---
