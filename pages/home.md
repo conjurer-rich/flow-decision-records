@@ -52,7 +52,16 @@ Each record includes:
 
 Want to understand the building blocks of FDRs? Start here:
 
-- 🔍 [Flow Decision Triggers](/docs/flow-decision-triggers)  
+- 📄 [Overview](/docs/overview)  
+  What is a Flow Decision Record?
+
+- 🧭 [Flow Decision Signals](/docs/flow-decision-signals)  
+  What signals or struggles prompt the need for change?
+
+- 📡 [Flow Decision Radar](/docs/flow-decision-radar)  
+  How do we know when to make a Flow Decision?
+
+- 💥 [Flow Decision Triggers](/docs/flow-decision-triggers)  
   What signals or struggles prompt the need for change?
 
 - 🎯 [Flow Decision Outcomes](/docs/flow-decision-outcomes)  
@@ -70,7 +79,7 @@ Want to understand the building blocks of FDRs? Start here:
 
 1. Use our [template](/docs/templates/FDR-template) to draft your first Flow Decision Record.
 2. Add it to your repository.
-3. Place it on your [Flow Roadmap](fdr-list) using Now / Next / Later.
+3. Place it on your [Flow Roadmap](/docs/flow-decision-roadmap) using Now / Next / Later.
 4. Invite advice and evaluate its impact.
 
 ---
