@@ -1,6 +1,6 @@
 ---
 permalink: /docs/flow-clinics
-title: "Flow Clinics"
+title: "🏥 Flow Clinics"
 layout: single
 sidebar:
   nav: "docs"
@@ -22,7 +22,7 @@ Enable decentralized, transparent decision-making around flow.
 - Reduce delay in resolving team-level blockers to flow
 - Maximize learning by sharing context across teams
 
-## When to Hold a Flow Clinic
+## When to hold a Flow Clinic
 
 Signals or triggers might include:
 
@@ -32,14 +32,14 @@ Signals or triggers might include:
 - “We want to experiment with a new boundary but need feedback.”
 - “A new constraint (tech, regulatory, strategic) has emerged and we need to adapt.”
 
-## Who Attends a Flow Clinic?
+## Who attends a Flow Clinic?
 
 - The person/team bringing the flow challenge (the initiator)
 - Facilitators (e.g. internal coaches, org designers, transformation leads)
 - A diverse set of advisors—people with relevant context, affected roles, or adjacent perspectives
 - Optional: Observers (for learning)
 
-## Clinic Structure (Typical Agenda – 30 to 60 min)
+## Clinic structure (typical agenda – 30 to 60 min)
 
 1. Welcome and framing (5 mins)
 
@@ -64,13 +64,13 @@ Signals or triggers might include:
    - Record a draft Flow Decision Record (FDR)
    - Assign any follow-ups (if needed)
 
-## Clinic Outputs
+## Clinic outputs
 
 - Draft or updated Flow Decision Record (FDR)
 - Shared understanding of flow constraints or enablers
 - Optionally visual models (sketches, capability maps, service interactions)
 
-## Why It Works
+## Why it works
 
 Flow Clinics are grounded in:
 
@@ -78,3 +78,7 @@ Flow Clinics are grounded in:
 - The advice process: distributing influence without diffusing responsibility
 - Visual sense-making: using maps and models to uncover dynamics and options
 - Social learning: enabling cross-pollination of insights across teams
+
+---
+
+[⬅ Back to Overview](/docs/overview)

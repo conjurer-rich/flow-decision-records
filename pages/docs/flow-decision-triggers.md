@@ -1,6 +1,6 @@
 ---
 permalink: /docs/flow-decision-triggers
-title: "Flow Decision Triggers"
+title: "💥 Flow Decision Triggers"
 layout: single
 sidebar:
   nav: "docs"
@@ -68,3 +68,6 @@ Flow Decision Triggers are common signals or struggles that prompt the need for 
   Part of a regular cadence of reviewing and improving flow, not just reactive.
 
 After identifying a trigger, you can use the [Flow Decision Outcomes](/docs/flow-decision-outcomes) to help you understand the required impact of the decision.
+
+---
+[⬅ Back to Overview](/docs/overview)

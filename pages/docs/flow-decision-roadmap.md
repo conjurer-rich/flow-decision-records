@@ -1,13 +1,11 @@
 --- 
-title: "Flow Decision Roadmap"
+title: "📍 Flow Decision Roadmap"
 layout: single
 permalink: /docs/flow-decision-roadmap
 sidebar:
   nav: "docs"
 classes: wide
 ---
-
-## 📍 Building a Flow Decision Roadmap
 
 The Flow Decision Roadmap is a living artifact that helps you **sequence the changes** needed to improve flow, guided by real signals—not guesses or top-down plans.
 
@@ -109,4 +107,4 @@ Each decision feeds the next:
 
 ---
 
-[⬅ Back to Home](/)
+[⬅ Back to Overview](/docs/overview)

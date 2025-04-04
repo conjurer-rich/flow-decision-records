@@ -1,6 +1,6 @@
 ---
 permalink: /docs/flow-decision-approaches
-title: "Flow Decision Approaches"
+title: "🔀 Flow Decision Approaches"
 layout: single
 sidebar:
   nav: "docs"
@@ -71,3 +71,7 @@ These icons can help visually identify the type of intervention being made in a 
   Create and align around metrics tied to delivery speed, feedback, or ownership clarity.
 
 After identifying an approach, you can use the [Flow Decision Metrics](/docs/flow-decision-metrics) to help you evaluate the impact of the decision.
+
+---
+
+[⬅ Back to Overview](/docs/overview)

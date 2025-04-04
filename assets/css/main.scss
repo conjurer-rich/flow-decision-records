@@ -1,7 +1,16 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
 @charset "utf-8";
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'contrast' }}";
 @import "minimal-mistakes";
+
+$primary-color: #34B3B1;
+$secondary-color: #1D2731;
+$call-to-action-color: #34B3B1;
+
 
 /* Custom styles */
 .masthead {
@@ -13,26 +22,26 @@
 }
 
 .greedy-nav {
-  background-color: #1D2731;
+  background-color: #1D2731 !important;
 }
 
 .greedy-nav a {
-  color: #F6F7F8;
-  font-family: "Inter", sans-serif;
-  font-weight: 500;
-  text-transform: none;
+  color: #F6F7F8 !important;
+  font-family: "Inter", sans-serif !important;
+  font-weight: 500 !important;
+  text-transform: none !important;
 }
 
 .greedy-nav a:hover {
-  color: #34B3B1;
+  color: #34B3B1 !important;
 }
 
 .greedy-nav .visible-links a {
-  color: #F6F7F8;
+  color: #F6F7F8 !important;
 }
 
 .greedy-nav .visible-links a:hover {
-  color: #34B3B1;
+  color: #34B3B1 !important;
 }
 
 .greedy-nav .hidden-links {
@@ -57,4 +66,49 @@
 .navicon::before,
 .navicon::after {
   background-color: #F6F7F8;
+} 
+
+/* Button styles */
+.btn,
+.btn--primary {
+  background-color: #34B3B1 !important;
+  color: #F6F7F8 !important;
+  
+  &:hover {
+    background-color: darken(#34B3B1, 10%) !important;
+  }
+}
+
+.btn--inverse {
+  background-color: transparent !important;
+  border: 2px solid #34B3B1 !important;
+  color: #34B3B1 !important;
+  
+  &:hover {
+    background-color: #34B3B1 !important;
+    color: #F6F7F8 !important;
+  }
+}
+
+/* Call to action buttons */
+.page__hero--overlay {
+  .btn {
+    background-color: #34B3B1 !important;
+    color: #F6F7F8 !important;
+    
+    &:hover {
+      background-color: darken(#34B3B1, 10%) !important;
+    }
+  }
+  
+  .btn--light-outline {
+    background-color: transparent !important;
+    border: 2px solid #F6F7F8 !important;
+    color: #F6F7F8 !important;
+    
+    &:hover {
+      background-color: #F6F7F8 !important;
+      color: #34B3B1 !important;
+    }
+  }
 } 

@@ -8,6 +8,10 @@ docs:
   - title: Overview
     url: /docs/overview
     children:
+    - title: "Signals"
+      url: /docs/flow-decision-signals
+    - title: "Radar"
+      url: /docs/flow-decision-radar
     - title: "Triggers"
       url: /docs/flow-decision-triggers
     - title: "Outcomes"
