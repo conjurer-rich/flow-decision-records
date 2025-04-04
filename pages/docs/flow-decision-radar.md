@@ -9,6 +9,8 @@ classes: wide
 
 The **Flow Decision Radar** is a visual tool that helps teams evaluate and prioritize **Flow Decision Signals**. It enables structured conversation around **which signals to act on** and **when they should escalate into Flow Decision Triggers**.
 
+![Flow Decision Radar](/assets/images/flow-decision-radar-categories.png)
+
 ---
 
 ## 🧭 What is it?

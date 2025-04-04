@@ -15,10 +15,10 @@ A Flow Decision is a deliberate, documented choice made to improve the flow of c
 
 - Grounded in user needs and real-world context
 - Made using a lightweight advice process
-- Shared transparently using a Flow Decision Record (FDR)
+- Shared transparently using a [Flow Decision Record (FDR)](https://www.flow-decision.com/docs/overview)
 - Reviewed and evolved over time—not set in stone
 
-## 2. Why Flow Decisions Matter
+## 2. Why Flow Decisions matter
 
 In fast-moving organizations, decisions about team structures, boundaries, ownership, and responsibilities are often made informally—or not made at all. This leads to:
 
@@ -33,9 +33,9 @@ Flow Decisions help by:
 - Reducing ambiguity in how we respond to user needs
 - Increasing momentum by making structural evolution part of everyday work
 
-## 3. When to Make a Flow Decision
+## 3. When to make a Flow Decision
 
-Use a Flow Decision when you hit a structural friction point—a signal that flow is blocked or unclear. Common triggers include:
+Use a Flow Decision when you hit a structural friction point—a signal that flow is blocked or unclear. Common [triggers](/docs/flow-decision-triggers) include:
 
 - Ownership is unclear across teams
 - Work keeps bouncing between teams
@@ -56,15 +56,17 @@ Each FDR should be concise and structured for clarity and action. Here’s a bas
 | Field | Description |
 |-------|-------------|
 | Title | A short, descriptive name |
-| Context | What triggered this decision? What flow issues or needs are in play? |
-| Decision | What are we trying, changing, or clarifying? |
+| Context | What triggered this decision? What flow issues or needs are in play? See [Flow Decision Triggers](https://flowdecisionrecords.com/docs/flow-decision-triggers) |
+| Decision | What are we trying, changing, or clarifying?  |
 | Advice Gathered | Who was consulted? What input did they offer? |
-| Expected Impact | What will this decision change or enable? What risks exist? |
+| Expected Impact | What will this decision change or enable? What risks exist? See [Flow Descision Outcomes](https://flowdecisionrecords.com/docs/flow-decision-outcomes) |
+| Approach | What is the proposed approach to addressing the decision? See [Flow Decision Approaches](https://flowdecisionrecords.com/docs/flow-decision-approaches) |
 | Owner | Who is responsible for shepherding this change? |
 | Start Date / Review Date | When will this be active? When will we review it? |
+| Evaluation plan | What evidence will we use to evaluate the decision? See [Flow Decision Metrics](https://flowdecisionrecords.com/docs/flow-decision-metrics) |
 | Status | Proposed, Accepted, Rejected, Implemented, Evaluated |
 
-## 5. Making the Decision: Use the Advice Process
+## 5. Making the decision: Use the Advice Process
 
 Flow Decisions are made with input, not by consensus.
 
@@ -74,7 +76,7 @@ Flow Decisions are made with input, not by consensus.
 
 This approach builds trust and speeds up progress—without falling into design-by-committee.
 
-## 6. Communicating and Acting on the Decision
+## 6. Communicating and acting on the decision
 
 Once the FDR is finalized:
 
@@ -87,7 +89,7 @@ Support the decision with necessary changes, such as:
 - Adjusting team interactions
 - Clarifying policies or agreements
 
-## 7. Reviewing and Evolving FDRs
+## 7. Reviewing and evolving FDRs
 
 Each Flow Decision should be reviewed regularly:
 
@@ -121,3 +123,86 @@ Status: Proposed
 - Keep them lightweight
 - Share and reflect openly
 - Use each one to improve your playbook
+
+## 10. From signals to strategic action
+
+Flow decisions don't come out of nowhere. They're usually preceded by signals—early indicators that something’s slowing down, unclear, or misaligned.
+
+### 🔍 [Flow Decision Signals](https://flowdecisionrecords.com/docs/flow-decision-signals)
+
+These are the friction points and early warning signs observed in team interactions, delivery patterns, or user feedback. They don’t always require immediate action—but they’re worth watching.
+
+Examples of Flow Decision Signals:
+
+- Work keeps bouncing between two teams
+- A team is frequently interrupted by another for support
+- Two teams regularly deliver conflicting outcomes
+- Users report inconsistent service experiences
+- Ownership of a capability or decision is unclear
+- There's a growing backlog of handoffs or dependencies
+- Re-org fatigue: “We already tried that” without clarity on what changed
+
+Categories of Signals:
+
+- 👥 Interaction strain (collaboration fatigue, misaligned touchpoints)
+- 📦 Delivery misalignment (unclear outcomes, unmet needs)
+- 🧠 Cognitive load indicators (context switching, rework, burnout)
+- 🔁 Repeated exceptions (edge cases becoming the norm)
+
+### 🧭 [Flow Decision Radar](https://flowdecisionrecords.com/docs/flow-decision-radar)
+
+The Flow Decision Radar is a facilitation tool used in workshops or retrospectives to surface, cluster, and visualize signals across multiple teams or services. It helps teams and facilitators answer:
+
+- Where are signals strongest?
+- What kind of signals are we seeing?
+- Are these isolated or systemic?
+- What’s worth investigating further?
+
+How it works:
+
+- Use a radar-style chart or Miro board
+- Plot observed signals in categories or zones
+- Group similar observations
+- Discuss which might indicate a Flow Decision Trigger
+
+Think of the radar as your early detection system for where structural misalignments are starting to emerge.
+
+### ⚡️ [Flow Decision Triggers](https://flowdecisionrecords.com/docs/flow-decision-triggers)
+
+A Flow Decision Trigger is a moment where signals have accumulated—or clarity has emerged—enough to justify action.
+
+Triggers are thresholds, not just observations. They suggest:
+
+“We’ve seen enough to make a call, or at least explore an option.”
+
+Common Flow Decision Triggers:
+
+- A service or capability has no clear owner
+- A platform team is unable to meet the needs of its internal consumers
+- A single team is pulled in opposing directions by multiple stakeholders
+- A persistent dependency or interaction friction is blocking delivery
+
+### 🗺 [Connecting to the Flow Decision Roadmap](https://flowdecisionrecords.com/docs/flow-decision-roadmap)
+
+Once a trigger is recognized, the team (or steward) creates a Flow Decision Record, and places it on a shared Now–Next–Later Flow Decision Roadmap.
+
+This roadmap:
+
+- Visualizes active and upcoming decisions
+- Tracks dependencies and review dates
+- Helps coordinate incremental structural evolution
+
+You might also mark:
+
+- Emerging Signals: Watchlist items
+- Proposed Decisions: Being explored or advised
+- Active Decisions: In effect
+- Under Review: Being evaluated or evolved
+
+Decisions shouldn’t pile up in a backlog—they should flow, just like the work they support.
+
+### 🔄 Feedback Loops & Review Cadence
+
+- Review the Radar and Roadmap together in regular Flow Clinics
+- Use reflections and outcomes to refine your radar categories
+- Track signal-to-impact patterns over time to improve foresight
