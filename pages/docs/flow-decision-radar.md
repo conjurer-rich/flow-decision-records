@@ -1,15 +1,17 @@
 ---
-permalink: /docs/flow-decision-radar
-title: "📡 Flow Decision Radar"
+permalink: /docs/flow-signals-radar
+title: "📡 Flow Signals Radar"
 layout: single
 sidebar:
   nav: "docs"
 classes: wide
+redirect_from:
+  - /docs/flow-decision-radar
 ---
 
-The **Flow Decision Radar** is a visual tool that helps teams evaluate and prioritize **Flow Decision Signals**. It enables structured conversation around **which signals to act on** and **when they should escalate into Flow Decision Triggers**.
+The **Flow Signals Radar** is a visual tool that helps teams evaluate and prioritize **Flow Decision Signals**. It enables structured conversation around **which signals to act on** and **when they should escalate into Flow Decision Triggers**.
 
-![Flow Decision Radar](/assets/images/flow-decision-radar-categories.png)
+![Flow Signals Radar](/assets/images/flow-decision-radar-categories.png)
 
 ---
 
