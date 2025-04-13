@@ -109,4 +109,6 @@ Each decision feeds the next:
 
 ---
 
+If you are interested in implementing Flow Decision Records in your organization, we have a sample [playbook](/docs/flow-decision-playbook) and [template](/docs/templates/FDR-template) to help you get started.
+
 [⬅ Back to Overview](/docs/overview)

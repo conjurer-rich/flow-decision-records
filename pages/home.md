@@ -24,11 +24,7 @@ Organizations are systems in motion—not static charts. Decisions about team st
 - Poorly documented
 - Hard to evaluate later
 
-FDRs fix that. They support:
-
-- **Decentralized, informed decision-making**
-- **Traceability of why decisions were made**
-- **Learning loops based on real-world flow outcomes**
+Flow Decision Records fix that by providing a way to capture decentralized, informed decision-making. This allows for traceability of why decisions were made, and provides learning loops based on real-world flow outcomes.
 
 ---
 

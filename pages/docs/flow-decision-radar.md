@@ -105,4 +105,6 @@ When you're ready:
 
 ---
 
+Next, evaluate whether the signal should [Trigger a Flow Decision Record](/docs/flow-decision-triggers).
+
 [⬅ Back to Overview](/docs/overview)

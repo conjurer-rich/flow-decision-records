@@ -81,4 +81,6 @@ Flow Clinics are grounded in:
 
 ---
 
+Flow clinics should seek to maintain the [Flow Roadmap](/docs/flow-decision-roadmap) as a living document.
+
 [⬅ Back to Overview](/docs/overview)
