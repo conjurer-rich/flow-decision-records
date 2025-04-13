@@ -64,8 +64,7 @@ Once implemented, each FDR enters an Evaluation Loop where teams assess:
 
 - Did it have the intended impact?
 - What new signals or needs emerged?
-
-Should we evolve this decision or reverse it?
+-Should we evolve this decision or reverse it?
 
 ## Flow Decision Record Template
 
@@ -76,3 +75,9 @@ The following templates are available to help you create FDRs:
 - [Interaction Modes Template](/docs/templates/FDR-template-interaction-modes)
 - [Constraints and Compliance Template](/docs/templates/FDR-template-constraints-and-compliance)
 - [Communication and Coordination Template](/docs/templates/FDR-template-communication-and-coordination)
+
+---
+
+Now that you know what a Flow Decision Record is, you can learn how to [Trigger a Flow Decision Record](/docs/flow-decision-triggers).
+
+[⬅ Back to Home](/docs/overview)
