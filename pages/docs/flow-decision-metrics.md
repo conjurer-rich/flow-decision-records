@@ -72,6 +72,4 @@ Use these metrics to evaluate the impact of flow decisions. They provide evidenc
 
 ---
 
-Now that we've collected metrics, we can explore how to run a [Flow Clinic](/docs/flow-clinic) to bring this all together.
-
 [⬅ Back to Overview](/docs/overview)
