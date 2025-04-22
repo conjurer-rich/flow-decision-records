@@ -20,12 +20,6 @@ docs:
       url: /docs/flow-decision-approaches
     - title: "Metrics"
       url: /docs/flow-decision-metrics
-    - title: "Facilitating flow clinics"
-      url: /docs/flow-clinics
-    - title: "Building a roadmap"
-      url: /docs/flow-decision-roadmap
-    - title: "Sample playbook"
-      url: /docs/playbook
 
   - title: Templates
     children:
