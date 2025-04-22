@@ -7,7 +7,7 @@ sidebar:
 classes: wide
 --- 
 
-These icons can help visually identify the type of intervention being made in a Flow Decision Record (FDR).
+There are number of ways to intervene in a flow to improve it. Here are some suggestions of the types of intervention that could be made in a Flow Decision Record (FDR).
 
 ## A. Team Structure & Boundaries
 
@@ -31,7 +31,6 @@ These icons can help visually identify the type of intervention being made in a 
 
 - 🎛️ **Redesign team responsibilities**  
   Change what a team owns to reduce cognitive load or improve autonomy.
-
 
 
 ## B. Interaction Design
