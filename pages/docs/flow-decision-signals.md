@@ -98,17 +98,6 @@ This helps:
 
 ---
 
-## 🛠️ Signals in practice
-
-When running a [Flow Clinic](/docs/flow-clinics) or workshop:
-
-- Encourage teams to write down flow blockers or pain points as signals
-- Don’t worry about naming root causes right away
-- Group and tag signals thematically
-- Revisit signals periodically to see if they’ve evolved into actionable decisions
-
----
-
-After understanding the signals, you can use a [Flow Decision Radar](/docs/flow-decision-radar) to guide prioritization.
+After understanding the signals, you can determine whether they should result in a [Flow Decision Trigger](/docs/flow-decision-triggers).
 
 [⬅ Back to Overview](/docs/overview)
