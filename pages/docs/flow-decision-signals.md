@@ -101,3 +101,7 @@ This helps:
 After understanding the signals, you can determine whether they should result in a [Flow Decision Trigger](/docs/flow-decision-triggers).
 
 [⬅ Back to Overview](/docs/overview)
+
+---
+
+Flow Decision Records are a foundational element of the [Fast Flow Flywheel](https://fastflowflywheel.com){: target="_blank"} approach. Reach out to us to learn more.

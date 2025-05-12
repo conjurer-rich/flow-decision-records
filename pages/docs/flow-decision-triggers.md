@@ -69,5 +69,8 @@ Flow Decision Triggers are common signals or struggles that prompt the need for 
 
 After identifying a trigger, you can use the [Flow Decision Outcomes](/docs/flow-decision-outcomes) to help you understand the required impact of the decision.
 
----
 [⬅ Back to Overview](/docs/overview)
+
+---
+
+Flow Decision Records are a foundational element of the [Fast Flow Flywheel](https://fastflowflywheel.com){: target="_blank"} approach. Reach out to us to learn more.

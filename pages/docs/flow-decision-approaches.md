@@ -74,3 +74,7 @@ After identifying an approach, you can use the [Flow Decision Metrics](/docs/flo
 ---
 
 [⬅ Back to Overview](/docs/overview)
+
+---
+
+Flow Decision Records are a foundational element of the [Fast Flow Flywheel](https://fastflowflywheel.com){: target="_blank"} approach. Reach out to us to learn more.

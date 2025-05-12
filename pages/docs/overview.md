@@ -81,3 +81,7 @@ The following templates are available to help you create FDRs:
 Now that you know what a Flow Decision Record is, you can learn how to [Trigger a Flow Decision Record](/docs/flow-decision-triggers).
 
 [⬅ Back to Home](/docs/overview)
+
+---
+
+Flow Decision Records are a foundational element of the [Fast Flow Flywheel](https://fastflowflywheel.com){: target="_blank"} approach. Reach out to us to learn more.
